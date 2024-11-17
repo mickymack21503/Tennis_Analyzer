@@ -1,8 +1,5 @@
-streamlit==1.25.0  # Ensure compatibility with Streamlit's latest version
-opencv-python-headless==4.7.0.68  # For OpenCV, headless version for servers
-gdown==4.7.1  # For downloading files from Google Drive
-numpy==1.25.2  # For numerical computations
-ultralytics==8.0.140  # For YOLO integration
-setuptools
-
-
+streamlit==1.19.0
+gdown==4.7.0
+opencv-python==4.7.0.72
+numpy==1.24.2
+ultralytics==8.0.0
